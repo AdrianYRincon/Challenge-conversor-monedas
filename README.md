@@ -30,7 +30,7 @@ Esta aplicación en Java permite a los usuarios convertir montos entre diferente
     ```
 2. Navegar al directorio del proyecto:
     ```bash
-    cd conversor-moneda
+    cd Challenge-conversor-monedas
     ```
 3. Asegurarse de que las dependencias necesarias estén disponibles y configuradas.
 
@@ -38,7 +38,7 @@ Esta aplicación en Java permite a los usuarios convertir montos entre diferente
 
 1. Ejecutar el programa principal:
     ```bash
-    java Challenge-conversor-monedas
+    java ConversorDeMonedas
     ```
 2. Seleccionar una de las opciones del menú para realizar una conversión de moneda:
     - **1**: Dólar => Peso Argentino
